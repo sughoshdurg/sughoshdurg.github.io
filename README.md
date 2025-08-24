@@ -2,7 +2,6 @@
 
 📧 [Email](mailto:sdurg@purdue.edu)  | 🔗 [LinkedIn](https://www.linkedin.com/in/sughoshdurg/){:target="_blank"}  | 🔗 [GitHub](https://github.com/sughoshdurg){:target="_blank"}  | 📄 [Resume](assets/Sughosh_Durg_Resume.pdf){:target="_blank"}
 
----
 
 ## 👋 About Me
 
