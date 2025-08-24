@@ -53,8 +53,8 @@ BE, Information Science & Engineering (Aug '19 - Aug '23)
 ---
 
 ## 🌟 Honors & Achievements
-- **RISE Award (Q2 & Q3 2024, Q1 2025) at Lilly Bengaluru for individual excellence and high-impact contributions.
-- **GOSO Platinum Project of the Year 2023 and 2024 for Operational Excellence at Eli Lilly.
+- RISE Award (Q2 & Q3 2024, Q1 2025) at Lilly Bengaluru for individual excellence and high-impact contributions.
+- GOSO Platinum Project of the Year 2023 and 2024 for Operational Excellence at Eli Lilly.
   
 ---
 
