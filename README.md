@@ -24,11 +24,11 @@ measurable impact.
 
 ## 🎓 Education
 **Purdue University** – West Lafayette, IN  
-MS, Business Analytics & Information Management (Aug 25' - Aug 26')  
-- Recipient of Daniels School of Business scholarship
+MS, Business Analytics & Information Management (Aug '25 - Aug '26)  
+- Recipient of the Daniels School of Business scholarship
 
 **B.M.S. College of Engineering** - Bengaluru, India  
-BE, Information Science & Engineering (Aug 2019 - Aug 2023)  
+BE, Information Science & Engineering (Aug '19 - Aug '23)  
 
 ---
 
@@ -52,10 +52,10 @@ BE, Information Science & Engineering (Aug 2019 - Aug 2023)
 
 ---
 
-## 🌟 Leadership & Honors
-- **RISE Award** (Q2 & Q3 2024, Q1 2025) for individual excellence at Lilly.  
-- **Platinum Project of the Year** (2023 & 2024) for operational excellence.
+## 🌟 Honors & Achievements
+- **RISE Award (Q2 & Q3 2024, Q1 2025) at Lilly Bengaluru for individual excellence and high-impact contributions.
+- **GOSO Platinum Project of the Year 2023 and 2024 for Operational Excellence at Eli Lilly.
   
 ---
 
-✨ *Exploring data, building solutions, and telling stories through analytics.*
+© 2025 Sughosh Durg. All rights reserved.
