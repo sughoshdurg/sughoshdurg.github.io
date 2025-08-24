@@ -23,7 +23,7 @@ measurable impact.
 ---
 
 ## 🎓 Education
-**Purdue University, Mitch Daniels School of Business** – West Lafayette, IN  
+**Purdue University** – West Lafayette, IN  
 MS, Business Analytics & Information Management (Aug 25' - Aug 26')  
 - Recipient of Daniels School of Business scholarship
 
@@ -36,17 +36,17 @@ BE, Information Science & Engineering (Aug 2019 - Aug 2023)
 
 **Eli Lilly and Company**  
 
-**Associate Consultant** *Bengaluru, Karnataka | Mar 2025 – Jul 2025*  
+**Associate Consultant**   *Bengaluru, Karnataka | Mar 2025 – Jul 2025*  
 - Built Data-as-a-Product solutions to standardize reporting dashboards, saving 35% in manual prep.  
 - Contributed to re-architecting ETL pipelines, increasing data processing speed by 30%.  
 - Unified 5+ disparate data sources into a single source of truth, boosting consistency and cutting reporting time by 40%.  
 
-**Associate** *Bengaluru, Karnataka | Jul 2023 – Feb 2025*  
+**Associate**   *Bengaluru, Karnataka | Jul 2023 – Feb 2025*  
 - Automated pipelines, reducing manual monitoring effort by 80%.  
 - Developed R-based quality checks, improving Marketing Mix Model accuracy by 45%.  
 - Authored technical documentation, enabling 25% faster onboarding.  
 
-**Intern** *Bengaluru, Karnataka | Mar 2023 – Jun 2023*  
+**Intern**   *Bengaluru, Karnataka | Mar 2023 – Jun 2023*  
 - Automated patient-centric data loading, saving 10+ hours weekly.  
 - Designed a Power BI dashboard, accelerating data validation by 60%.
 
