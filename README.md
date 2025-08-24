@@ -1,4 +1,4 @@
-# Analytics, Consulting, and Data Strategy
+# Analytics, Consulting, & Data Strategy
 ---
 
 ## 👋 About Me
@@ -12,11 +12,13 @@ measurable impact.
 
 ## Contact  
 📧 [Email](mailto:sdurg@purdue.edu)  | 🔗 [LinkedIn](https://www.linkedin.com/in/sughoshdurg/){:target="_blank"}  | 🔗 [GitHub](https://github.com/sughoshdurg){:target="_blank"}  | 📄 [Resume](assets/Sughosh_Durg_Resume.pdf){:target="_blank"}
+
 ---
 
 ## 🛠 Skills and Tools
 - Data Analysis, Data Visualization, Machine Learning, Cloud Computing, and Data Engineering  
 - Python, SQL, Tableau, Pandas, NumPy, Amazon Redshift, AWS, GitHub, Jira, Prefect
+  
 ---
 
 ## 🎓 Education
@@ -24,8 +26,9 @@ measurable impact.
 MS, Business Analytics & Information Management (Aug 25' - Aug 26')  
 - Recipient of Daniels School of Business scholarship
 
-**B.M.S. College of Engineering** - Bengaluru, India
+**B.M.S. College of Engineering** - Bengaluru, India  
 BE, Information Science & Engineering (Aug 2019 - Aug 2023)  
+
 ---
 
 ## 💼 Experience
@@ -43,12 +46,14 @@ Associate Consultant** *Bengaluru, Karnataka | Mar 2025 – Jul 2025*
 
 **Intern** *Bengaluru, Karnataka | Mar 2023 – Jun 2023*  
 - Automated patient-centric data loading, saving 10+ hours weekly.  
-- Designed a Power BI dashboard, accelerating data validation by 60%.  
+- Designed a Power BI dashboard, accelerating data validation by 60%.
+
 ---
 
 ## 🌟 Leadership & Honors
 - **RISE Award** (Q2 & Q3 2024, Q1 2025) for individual excellence at Lilly.  
-- **Platinum Project of the Year** (2023 & 2024) for operational excellence. 
+- **Platinum Project of the Year** (2023 & 2024) for operational excellence.
+  
 ---
 
 ✨ *Exploring data, building solutions, and telling stories through analytics.*
