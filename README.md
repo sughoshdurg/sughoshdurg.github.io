@@ -1,7 +1,5 @@
 # Data Science and Analytics
 
-📧 [Email](mailto:sdurg@purdue.edu) | [LinkedIn](https://www.linkedin.com/in/sughoshdurg/) | [📄 Resume](assets/Sughosh_Durg_Resume.pdf){:target="_blank"}
-
 ---
 
 ## 👋 About Me
@@ -10,20 +8,25 @@ Proven experience in identifying patterns, crafting data-driven solutions, and d
 needle. Brings strong analytical thinking and a results-driven mindset to support business growth through
 measurable impact.
 
+## Contact  
+📧 [Email](mailto:sdurg@purdue.edu)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sughoshdurg/){:target="_blank"}  
+📄 [Resume](assets/Sughosh_Durg_Resume.pdf){:target="_blank"}
+
 ---
 
-## 🛠 Skills
-- **Programming & Analytics:** SQL, Python, R, Power BI  
-- **Data Engineering & Tools:** AWS Redshift, Git, Prefect, Jira
+## 🛠 Skills and Tools
+- Data Analysis, Data Visualization, Machine Learning, Cloud Computing, and Data Engineering  
+- Python, SQL, Tableau, Pandas, NumPy, Amazon Redshift, AWS, GitHub, Jira, Prefect
   
 ---
 
 ## 🎓 Education
 **Purdue University**  
-M.S., Business Analytics and Information Management (Aug 2025 - Aug 2026)  
+MS Business Analytics & Information Management (Aug 2025 - Aug 2026)  
 
 **B.M.S. College of Engineering**  
-B.E., Information Science and Engineering (Aug 2019 - Aug 2023)  
+BE, Information Science & Engineering (Aug 2019 - Aug 2023)  
 
 ---
 
