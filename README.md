@@ -1,4 +1,5 @@
 # Analytics, Consulting, & Data Strategy
+
 ---
 
 ## 👋 About Me
@@ -33,8 +34,9 @@ BE, Information Science & Engineering (Aug 2019 - Aug 2023)
 
 ## 💼 Experience
 
-**Eli Lilly and Company 
-Associate Consultant** *Bengaluru, Karnataka | Mar 2025 – Jul 2025*  
+**Eli Lilly and Company**  
+
+**Associate Consultant** *Bengaluru, Karnataka | Mar 2025 – Jul 2025*  
 - Built Data-as-a-Product solutions to standardize reporting dashboards, saving 35% in manual prep.  
 - Contributed to re-architecting ETL pipelines, increasing data processing speed by 30%.  
 - Unified 5+ disparate data sources into a single source of truth, boosting consistency and cutting reporting time by 40%.  
