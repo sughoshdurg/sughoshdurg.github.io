@@ -2,10 +2,12 @@
 ---
 
 ## 👋 About Me
+
 Data storyteller with a passion for decoding complexity and channeling insights into clear, actionable strategies.
 Proven experience in identifying patterns, crafting data-driven solutions, and driving decisions that move the
 needle. Brings strong analytical thinking and a results-driven mindset to support business growth through
 measurable impact.
+
 ---
 
 ## Contact  
