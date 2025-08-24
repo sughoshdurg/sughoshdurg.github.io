@@ -9,9 +9,7 @@ needle. Brings strong analytical thinking and a results-driven mindset to suppor
 measurable impact.
 
 ## Contact  
-📧 [Email](mailto:sdurg@purdue.edu)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sughoshdurg/){:target="_blank"}  
-📄 [Resume](assets/Sughosh_Durg_Resume.pdf){:target="_blank"}
+📧 [Email](mailto:sdurg@purdue.edu)  | 🔗 [LinkedIn](https://www.linkedin.com/in/sughoshdurg/){:target="_blank"}  | 🔗 [GitHub](https://github.com/sughoshdurg){:target="_blank"}  | 📄 [Resume](assets/Sughosh_Durg_Resume.pdf){:target="_blank"}
 
 ---
 
@@ -22,10 +20,11 @@ measurable impact.
 ---
 
 ## 🎓 Education
-**Purdue University**  
+**Purdue University, Mitch Daniels School of Business** – West Lafayette, IN  
 MS Business Analytics & Information Management (Aug 2025 - Aug 2026)  
+- Recipient of Daniels School of Business scholarship
 
-**B.M.S. College of Engineering**  
+**B.M.S. College of Engineering - Bengaluru, India**  
 BE, Information Science & Engineering (Aug 2019 - Aug 2023)  
 
 ---
