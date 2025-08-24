@@ -2,17 +2,16 @@
 
 ---
 
+📧 [Email](mailto:sdurg@purdue.edu)  | 🔗 [LinkedIn](https://www.linkedin.com/in/sughoshdurg/){:target="_blank"}  | 🔗 [GitHub](https://github.com/sughoshdurg){:target="_blank"}  | 📄 [Resume](assets/Sughosh_Durg_Resume.pdf){:target="_blank"}
+
+---
+
 ## 👋 About Me
 
 Data storyteller with a passion for decoding complexity and channeling insights into clear, actionable strategies.
 Proven experience in identifying patterns, crafting data-driven solutions, and driving decisions that move the
 needle. Brings strong analytical thinking and a results-driven mindset to support business growth through
 measurable impact.
-
----
-
-## Contact  
-📧 [Email](mailto:sdurg@purdue.edu)  | 🔗 [LinkedIn](https://www.linkedin.com/in/sughoshdurg/){:target="_blank"}  | 🔗 [GitHub](https://github.com/sughoshdurg){:target="_blank"}  | 📄 [Resume](assets/Sughosh_Durg_Resume.pdf){:target="_blank"}
 
 ---
 
