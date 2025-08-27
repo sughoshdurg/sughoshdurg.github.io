@@ -14,7 +14,7 @@ measurable impact.
 
 ## 🛠 Skills and Tools
 - Data Analysis, Data Visualization, Machine Learning, Cloud Computing, and Data Engineering  
-- Python, SQL, Tableau, Pandas, NumPy, Amazon Redshift, AWS, GitHub, Jira, Prefect
+- Python, SQL, Power BI, Pandas, NumPy, Amazon Redshift, AWS, GitHub, Jira, Prefect
   
 ---
 
@@ -33,19 +33,19 @@ BE, Information Science & Engineering (Aug '19 - Aug '23)
 **Eli Lilly and Company**  
 
 **Associate Consultant**   
-*Bengaluru, Karnataka | Mar 2025 – Jul 2025*  
+*Bengaluru, Karnataka | Mar '25 – Jul '25*  
 - Built Data-as-a-Product solutions to standardize reporting dashboards, saving 35% in manual prep.  
 - Contributed to re-architecting ETL pipelines, increasing data processing speed by 30%.  
 - Unified 5+ disparate data sources into a single source of truth, boosting consistency and cutting reporting time by 40%.  
 
 **Associate**   
-*Bengaluru, Karnataka | Jul 2023 – Feb 2025*  
+*Bengaluru, Karnataka | Jul '23 – Feb '25*  
 - Automated pipelines, reducing manual monitoring effort by 80%.  
 - Developed R-based quality checks, improving Marketing Mix Model accuracy by 45%.  
 - Authored technical documentation, enabling 25% faster onboarding.  
 
 **Intern**   
-*Bengaluru, Karnataka | Mar 2023 – Jun 2023*  
+*Bengaluru, Karnataka | Mar '23 – Jun '23*  
 - Automated patient-centric data loading, saving 10+ hours weekly.  
 - Designed a Power BI dashboard, accelerating data validation by 60%.
 
