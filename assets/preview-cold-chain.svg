@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M2 1.5 8 5 2 8.5" fill="none" stroke="#86868b" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect width="800" height="450" fill="#ededf1"/>
+  <rect x="36" y="30" width="728" height="390" rx="22" fill="#fff"/>
+  <text x="68" y="78" font-size="24" font-weight="600" letter-spacing="-0.3" fill="#1d1d1f">Real-time cold-chain analytics</text>
+  <text x="68" y="102" font-size="16" fill="#86868b">Streaming and batch data in one BigQuery model</text>
+  <text x="68" y="138" font-size="15" font-weight="600" fill="#86868b">Streaming</text>
+  <rect x="68" y="148" width="128" height="56" rx="14" fill="#f5f5f7"/>
+  <text x="132" y="181.6" font-size="16" font-weight="600" fill="#1d1d1f" text-anchor="middle">Sensor events</text>
+  <rect x="232" y="148" width="128" height="56" rx="14" fill="#f5f5f7"/>
+  <text x="296" y="181.6" font-size="16" font-weight="600" fill="#1d1d1f" text-anchor="middle">Pub/Sub</text>
+  <line x1="200" y1="176" x2="228" y2="176" stroke="#c7c7cc" stroke-width="2" stroke-linecap="round" marker-end="url(#a)"/>
+  <line x1="364" y1="176" x2="392" y2="176" stroke="#c7c7cc" stroke-width="2" stroke-linecap="round" marker-end="url(#a)"/>
+  <text x="68" y="228" font-size="15" font-weight="600" fill="#86868b">Batch</text>
+  <rect x="68" y="238" width="128" height="56" rx="14" fill="#f5f5f7"/>
+  <text x="132" y="271.6" font-size="16" font-weight="600" fill="#1d1d1f" text-anchor="middle">Batch files</text>
+  <rect x="232" y="238" width="128" height="56" rx="14" fill="#f5f5f7"/>
+  <text x="296" y="271.6" font-size="16" font-weight="600" fill="#1d1d1f" text-anchor="middle">Airflow + dbt</text>
+  <line x1="200" y1="266" x2="228" y2="266" stroke="#c7c7cc" stroke-width="2" stroke-linecap="round" marker-end="url(#a)"/>
+  <line x1="364" y1="266" x2="392" y2="266" stroke="#c7c7cc" stroke-width="2" stroke-linecap="round" marker-end="url(#a)"/>
+  <rect x="396" y="138" width="148" height="166" rx="18" fill="#0071e3"/>
+  <g fill="#fff" text-anchor="middle">
+    <text x="470" y="182" font-size="21" font-weight="600">BigQuery</text>
+    <text x="470" y="206" font-size="17">star schema</text>
+    <line x1="430" y1="224" x2="510" y2="224" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/>
+    <text x="470" y="250" font-size="16" fill-opacity=".9">SCD Type 2</text>
+    <text x="470" y="272" font-size="16" fill-opacity=".9">history kept</text>
+  </g>
+  <line x1="548" y1="221" x2="580" y2="221" stroke="#c7c7cc" stroke-width="2" stroke-linecap="round" marker-end="url(#a)"/>
+  <line x1="470" y1="308" x2="470" y2="332" stroke="#c7c7cc" stroke-width="2" stroke-dasharray="5 5" stroke-linecap="round" marker-end="url(#a)"/>
+  <rect x="396" y="336" width="148" height="40" rx="20" fill="none" stroke="#c7c7cc" stroke-width="1.5" stroke-dasharray="5 5"/>
+  <text x="470" y="361" font-size="15" fill="#6e6e73" text-anchor="middle">Dead-letter queue</text>
+  <rect x="584" y="138" width="148" height="166" rx="18" fill="#f5f5f7"/>
+  <text x="600" y="166" font-size="16" font-weight="600" fill="#1d1d1f">Looker Studio</text>
+  <rect x="600" y="178" width="52" height="22" rx="8" fill="#fff"/>
+  <rect x="660" y="178" width="56" height="22" rx="8" fill="#fff"/>
+  <line x1="600" y1="224" x2="716" y2="224" stroke="#d2d2d7" stroke-width="1.5" stroke-dasharray="4 4"/>
+  <polyline points="600,254 624,248 648,252 672,208 696,244 716,240" fill="none" stroke="#0071e3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="672" cy="208" r="6" fill="#bf4800"/>
+  <text x="600" y="288" font-size="15" fill="#6e6e73">Risk alerts</text>
+</svg>

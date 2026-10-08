@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M2 1.5 8 5 2 8.5" fill="none" stroke="#86868b" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <rect width="800" height="450" fill="#ededf1"/>
+  <rect x="36" y="30" width="728" height="390" rx="22" fill="#fff"/>
+  <text x="68" y="78" font-size="24" font-weight="600" letter-spacing="-0.3" fill="#1d1d1f">NCAA seed prediction</text>
+  <text x="68" y="102" font-size="16" fill="#86868b">Stacked ensemble with exact seed assignment</text>
+  <rect x="68" y="165" width="112" height="138" rx="16" fill="#f5f5f7"/>
+  <g text-anchor="middle" fill="#1d1d1f">
+    <text x="124" y="205" font-size="28" font-weight="600">340</text>
+    <text x="124" y="227" font-size="15" fill="#6e6e73">labeled teams</text>
+    <text x="124" y="268" font-size="28" font-weight="600">81</text>
+    <text x="124" y="290" font-size="15" fill="#6e6e73">features</text>
+  </g>
+  <rect x="216" y="128" width="120" height="44" rx="22" fill="#f5f5f7"/>
+  <text x="276" y="155.6" font-size="16" font-weight="600" fill="#1d1d1f" text-anchor="middle">XGBoost</text>
+  <rect x="216" y="184" width="120" height="44" rx="22" fill="#f5f5f7"/>
+  <text x="276" y="211.6" font-size="16" font-weight="600" fill="#1d1d1f" text-anchor="middle">LightGBM</text>
+  <rect x="216" y="240" width="120" height="44" rx="22" fill="#f5f5f7"/>
+  <text x="276" y="267.6" font-size="16" font-weight="600" fill="#1d1d1f" text-anchor="middle">CatBoost</text>
+  <rect x="216" y="296" width="120" height="44" rx="22" fill="#f5f5f7"/>
+  <text x="276" y="323.6" font-size="16" font-weight="600" fill="#1d1d1f" text-anchor="middle">Ridge</text>
+  <path d="M184 234 C200 234 200 150 212 150" fill="none" stroke="#c7c7cc" stroke-width="2" stroke-linecap="round"/>
+  <path d="M340 150 C358 150 358 234 372 234" fill="none" stroke="#c7c7cc" stroke-width="2" stroke-linecap="round"/>
+  <path d="M184 234 C200 234 200 206 212 206" fill="none" stroke="#c7c7cc" stroke-width="2" stroke-linecap="round"/>
+  <path d="M340 206 C358 206 358 234 372 234" fill="none" stroke="#c7c7cc" stroke-width="2" stroke-linecap="round"/>
+  <path d="M184 234 C200 234 200 262 212 262" fill="none" stroke="#c7c7cc" stroke-width="2" stroke-linecap="round"/>
+  <path d="M340 262 C358 262 358 234 372 234" fill="none" stroke="#c7c7cc" stroke-width="2" stroke-linecap="round"/>
+  <path d="M184 234 C200 234 200 318 212 318" fill="none" stroke="#c7c7cc" stroke-width="2" stroke-linecap="round"/>
+  <path d="M340 318 C358 318 358 234 372 234" fill="none" stroke="#c7c7cc" stroke-width="2" stroke-linecap="round"/>
+  <text x="276" y="366" font-size="15" fill="#6e6e73" text-anchor="middle">80 models</text>
+  <rect x="376" y="164" width="140" height="140" rx="18" fill="#0071e3"/>
+  <g fill="#fff" text-anchor="middle">
+    <text x="446" y="204" font-size="18" font-weight="600">Blend and</text>
+    <text x="446" y="226" font-size="18" font-weight="600">isotonic</text>
+    <text x="446" y="248" font-size="18" font-weight="600">calibration</text>
+    <line x1="406" y1="262" x2="486" y2="262" stroke="#fff" stroke-opacity=".35" stroke-width="1.5"/>
+    <text x="446" y="285" font-size="15" fill-opacity=".92">RMSE 4.38 &#8594; 3.89</text>
+  </g>
+  <line x1="520" y1="234" x2="596" y2="234" stroke="#c7c7cc" stroke-width="2" stroke-linecap="round" marker-end="url(#a)"/>
+  <text x="558" y="222" font-size="15" fill="#6e6e73" text-anchor="middle">Hungarian</text>
+  <circle cx="607.5" cy="216" r="3" fill="#0071e3" opacity="0.95"/>
+  <circle cx="615" cy="216" r="3" fill="#0071e3" opacity="0.95"/>
+  <circle cx="622.5" cy="216" r="3" fill="#0071e3" opacity="0.95"/>
+  <circle cx="630" cy="216" r="3" fill="#0071e3" opacity="0.95"/>
+  <circle cx="637.5" cy="216" r="3" fill="#0071e3" opacity="0.95"/>
+  <circle cx="645" cy="216" r="3" fill="#0071e3" opacity="0.95"/>
+  <circle cx="652.5" cy="216" r="3" fill="#0071e3" opacity="0.95"/>
+  <circle cx="660" cy="216" r="3" fill="#0071e3" opacity="0.95"/>
+  <circle cx="667.5" cy="216" r="3" fill="#0071e3" opacity="0.95"/>
+  <circle cx="675" cy="216" r="3" fill="#0071e3" opacity="0.95"/>
+  <circle cx="682.5" cy="216" r="3" fill="#0071e3" opacity="0.95"/>
+  <circle cx="690" cy="216" r="3" fill="#0071e3" opacity="0.95"/>
+  <circle cx="697.5" cy="216" r="3" fill="#0071e3" opacity="0.95"/>
+  <circle cx="705" cy="216" r="3" fill="#0071e3" opacity="0.95"/>
+  <circle cx="712.5" cy="216" r="3" fill="#0071e3" opacity="0.95"/>
+  <circle cx="720" cy="216" r="3" fill="#0071e3" opacity="0.95"/>
+  <circle cx="727.5" cy="216" r="3" fill="#0071e3" opacity="0.95"/>
+  <circle cx="607.5" cy="225" r="3" fill="#0071e3" opacity="0.72"/>
+  <circle cx="615" cy="225" r="3" fill="#0071e3" opacity="0.72"/>
+  <circle cx="622.5" cy="225" r="3" fill="#0071e3" opacity="0.72"/>
+  <circle cx="630" cy="225" r="3" fill="#0071e3" opacity="0.72"/>
+  <circle cx="637.5" cy="225" r="3" fill="#0071e3" opacity="0.72"/>
+  <circle cx="645" cy="225" r="3" fill="#0071e3" opacity="0.72"/>
+  <circle cx="652.5" cy="225" r="3" fill="#0071e3" opacity="0.72"/>
+  <circle cx="660" cy="225" r="3" fill="#0071e3" opacity="0.72"/>
+  <circle cx="667.5" cy="225" r="3" fill="#0071e3" opacity="0.72"/>
+  <circle cx="675" cy="225" r="3" fill="#0071e3" opacity="0.72"/>
+  <circle cx="682.5" cy="225" r="3" fill="#0071e3" opacity="0.72"/>
+  <circle cx="690" cy="225" r="3" fill="#0071e3" opacity="0.72"/>
+  <circle cx="697.5" cy="225" r="3" fill="#0071e3" opacity="0.72"/>
+  <circle cx="705" cy="225" r="3" fill="#0071e3" opacity="0.72"/>
+  <circle cx="712.5" cy="225" r="3" fill="#0071e3" opacity="0.72"/>
+  <circle cx="720" cy="225" r="3" fill="#0071e3" opacity="0.72"/>
+  <circle cx="727.5" cy="225" r="3" fill="#0071e3" opacity="0.72"/>
+  <circle cx="607.5" cy="234" r="3" fill="#0071e3" opacity="0.5"/>
+  <circle cx="615" cy="234" r="3" fill="#0071e3" opacity="0.5"/>
+  <circle cx="622.5" cy="234" r="3" fill="#0071e3" opacity="0.5"/>
+  <circle cx="630" cy="234" r="3" fill="#0071e3" opacity="0.5"/>
+  <circle cx="637.5" cy="234" r="3" fill="#0071e3" opacity="0.5"/>
+  <circle cx="645" cy="234" r="3" fill="#0071e3" opacity="0.5"/>
+  <circle cx="652.5" cy="234" r="3" fill="#0071e3" opacity="0.5"/>
+  <circle cx="660" cy="234" r="3" fill="#0071e3" opacity="0.5"/>
+  <circle cx="667.5" cy="234" r="3" fill="#0071e3" opacity="0.5"/>
+  <circle cx="675" cy="234" r="3" fill="#0071e3" opacity="0.5"/>
+  <circle cx="682.5" cy="234" r="3" fill="#0071e3" opacity="0.5"/>
+  <circle cx="690" cy="234" r="3" fill="#0071e3" opacity="0.5"/>
+  <circle cx="697.5" cy="234" r="3" fill="#0071e3" opacity="0.5"/>
+  <circle cx="705" cy="234" r="3" fill="#0071e3" opacity="0.5"/>
+  <circle cx="712.5" cy="234" r="3" fill="#0071e3" opacity="0.5"/>
+  <circle cx="720" cy="234" r="3" fill="#0071e3" opacity="0.5"/>
+  <circle cx="727.5" cy="234" r="3" fill="#0071e3" opacity="0.5"/>
+  <circle cx="607.5" cy="243" r="3" fill="#0071e3" opacity="0.3"/>
+  <circle cx="615" cy="243" r="3" fill="#0071e3" opacity="0.3"/>
+  <circle cx="622.5" cy="243" r="3" fill="#0071e3" opacity="0.3"/>
+  <circle cx="630" cy="243" r="3" fill="#0071e3" opacity="0.3"/>
+  <circle cx="637.5" cy="243" r="3" fill="#0071e3" opacity="0.3"/>
+  <circle cx="645" cy="243" r="3" fill="#0071e3" opacity="0.3"/>
+  <circle cx="652.5" cy="243" r="3" fill="#0071e3" opacity="0.3"/>
+  <circle cx="660" cy="243" r="3" fill="#0071e3" opacity="0.3"/>
+  <circle cx="667.5" cy="243" r="3" fill="#0071e3" opacity="0.3"/>
+  <circle cx="675" cy="243" r="3" fill="#0071e3" opacity="0.3"/>
+  <circle cx="682.5" cy="243" r="3" fill="#0071e3" opacity="0.3"/>
+  <circle cx="690" cy="243" r="3" fill="#0071e3" opacity="0.3"/>
+  <circle cx="697.5" cy="243" r="3" fill="#0071e3" opacity="0.3"/>
+  <circle cx="705" cy="243" r="3" fill="#0071e3" opacity="0.3"/>
+  <circle cx="712.5" cy="243" r="3" fill="#0071e3" opacity="0.3"/>
+  <circle cx="720" cy="243" r="3" fill="#0071e3" opacity="0.3"/>
+  <circle cx="727.5" cy="243" r="3" fill="#0071e3" opacity="0.3"/>
+  <text x="668" y="282" font-size="18" font-weight="600" fill="#1d1d1f" text-anchor="middle">Seeds 1&#8211;68</text>
+  <text x="668" y="304" font-size="15" fill="#86868b" text-anchor="middle">each slot used once</text>
+</svg>
