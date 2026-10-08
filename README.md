@@ -1,4 +1,4 @@
-# Sughosh Durg — portfolio
+# Sughosh Durg's Portfolio
 
 A single static page built with plain HTML, CSS and a small amount of JavaScript.
 
