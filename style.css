@@ -874,7 +874,7 @@ button:focus-visible {
 
 .edu-year {
   color: var(--hairline);
-  font-size: clamp(3.75rem, 2rem + 6.4vw, 6.5rem);
+  font-size: clamp(2.5rem, 1.5rem + 3.6vw, 4rem);
   font-weight: 600;
   line-height: 0.95;
   letter-spacing: -0.045em;
@@ -886,7 +886,7 @@ button:focus-visible {
 }
 
 .edu-list h3 {
-  font-size: clamp(1.5rem, 1.2rem + 1.2vw, 2rem);
+  font-size: clamp(1.25rem, 1.1rem + 0.7vw, 1.5rem);
   line-height: 1.14;
   letter-spacing: -0.015em;
 }
@@ -990,6 +990,12 @@ button:focus-visible {
   flex-direction: column;
   overflow: hidden;
   cursor: pointer;
+  transition: transform 0.4s var(--ease), box-shadow 0.4s var(--ease);
+}
+
+.project:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 34px rgb(0 0 0 / 0.1);
 }
 
 .shot {
@@ -1004,6 +1010,11 @@ button:focus-visible {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  transition: transform 0.6s var(--ease);
+}
+
+.project:hover .shot img {
+  transform: scale(1.03);
 }
 
 .project h3 {
@@ -1018,83 +1029,54 @@ button:focus-visible {
   color: #d2d2d7;
 }
 
-/* "Case study +" button, as on apple.com tiles */
+/* "View details" button: blue pill, centered, same as Contact */
+.project > p:not(.kicker) {
+  margin-bottom: 1.5rem;
+}
+
 .more {
-  display: inline-flex;
-  align-items: center;
-  align-self: flex-end;
-  gap: 0.75rem;
-  margin: 1.5rem -0.25rem -0.25rem 0;
-  padding: 0.25rem;
+  align-self: center;
+  margin-top: auto;
+  padding: 0.7rem 1.3rem;
   border: 0;
-  background: none;
-  color: var(--text-2);
-  font-size: 0.9375rem;
-  font-weight: 500;
-  cursor: pointer;
-}
-
-.project.dark .more {
-  color: #a1a1a6;
-}
-
-.more i {
-  position: relative;
-  display: block;
-  width: 2.25rem;
-  height: 2.25rem;
-  border-radius: 50%;
-  background: var(--text);
-  transition: background 0.2s, transform 0.3s var(--ease);
-}
-
-.more i::before,
-.more i::after {
-  content: "";
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  width: 0.875rem;
-  height: 2px;
-  margin: -1px 0 0 -0.4375rem;
-  border-radius: 1px;
-  background: #fff;
-}
-
-.more i::after {
-  transform: rotate(90deg);
-}
-
-.project.dark .more i {
-  background: #f5f5f7;
-}
-
-.project.dark .more i::before,
-.project.dark .more i::after {
-  background: var(--text);
-}
-
-.project:hover .more i,
-.more:focus-visible i {
+  border-radius: 980px;
   background: var(--blue);
-  transform: scale(1.06);
+  color: #fff;
+  font: inherit;
+  font-size: 1.0625rem;
+  cursor: pointer;
+  transition: background 0.2s;
 }
 
-.project.dark:hover .more i,
-.project.dark .more:focus-visible i {
-  background: #2997ff;
+.more::after {
+  content: "\203A";
+  display: inline-block;
+  margin-left: 0.4rem;
+  transition: transform 0.25s var(--ease);
 }
 
-.project:hover .more i::before,
-.project:hover .more i::after,
-.more:focus-visible i::before,
-.more:focus-visible i::after {
-  background: #fff;
+.more:hover,
+.more:focus-visible,
+.project:hover .more {
+  background: var(--blue-hover);
 }
 
-.project.dark:hover .more i::before,
-.project.dark:hover .more i::after {
-  background: #000;
+.project:hover .more::after,
+.more:focus-visible::after {
+  transform: translateX(3px);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .project,
+  .shot img,
+  .more::after {
+    transition: none;
+  }
+
+  .project:hover,
+  .project:hover .shot img {
+    transform: none;
+  }
 }
 
 /* Shared chips */
@@ -1406,6 +1388,7 @@ html {
   color: var(--text-2);
   font-size: 0.75rem;
   letter-spacing: -0.008em;
+  text-align: center;
 }
 
 /* Case study sheet */
@@ -1677,7 +1660,7 @@ html {
   }
 
   .edu-list > li {
-    grid-template-columns: 15rem 1fr;
+    grid-template-columns: 11rem 1fr;
   }
 
   .rows li {
