@@ -197,7 +197,7 @@
   }
 })();
 
-/* Resume viewer: opens assets/resume.pdf in a sheet; the link still works as a plain new-tab link without JS. */
+/* Resume viewer: opens the resume PDF in a sheet; the link still works as a plain new-tab link without JS. */
 (function () {
   const sheet = document.getElementById("resume");
   const frame = document.getElementById("resume-frame");
