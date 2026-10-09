@@ -1,4 +1,4 @@
-# Sughosh Durg — portfolio
+# Sughosh Durg's Portfolio
 
 A single static page built with plain HTML, CSS and a small amount of JavaScript.
 
@@ -8,11 +8,7 @@ A single static page built with plain HTML, CSS and a small amount of JavaScript
 2. **Education**: 
 3. **Experience**:
 4. **Projects**:
-   - [Real-Time Cold-Chain Analytics Platform] (https://github.com/sughoshdurg/coldtrace)
-   - [Insurance Charge Prediction on SageMaker](https://github.com/sughoshdurg/insurance-charges-sagemaker)
-   - [Customer Churn Prediction at Scale](https://github.com/sughoshdurg/Customer-Churn-Prediction-at-Scale)
-   - [NCAA Tournament Seed Prediction](https://github.com/sughoshdurg/NCAA-Seed-Prediction-Challenge)
-5. **Skills**: languages, analytics and BI, data engineering, ML and forecasting, generative AI, ML engineering and cloud
+5. **Skills**:
 6. **Certifications**:
 7. **Recognition**:
 8. **Contact**
